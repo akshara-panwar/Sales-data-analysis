@@ -2,67 +2,99 @@
 
 
 
-\# About This Project
+\## About This Project
 
-I created this project while learning Python data analysis.  
+I created this project while learning Python Data Analysis.
+
+
 
 The goal was to understand how real sales data can be analyzed to find useful business insights.
 
 
 
-\# Project Overview
-
-In this project, I analyzed sales data to understand product performance, total revenue, and monthly sales trends using Python.
+\---
 
 
 
-\# What I Tried to Achieve
+\## Project Overview
 
-&#x20;Understand how data analysis works in real-world business problems
+In this project, I analyzed sales data to understand:
 
-&#x20;Learn how to clean and process CSV data
+\- Product performance
 
-&#x20;Generate insights using Python libraries
+\- Total revenue
 
-
-
-\# Tools I Used
-
-&#x20;Python
-
-&#x20;Pandas for data handling
-
-&#x20;NumPy for calculations
-
-&#x20;Matplotlib for visualization
+\- Monthly sales trends
 
 
 
-\# What I Did in This Project
-
-&#x20;Loaded and cleaned sales dataset
-
-&#x20;Created new column for total sales
-
-&#x20;Grouped data by product and category
-
-&#x20;Calculated total revenue
-
-&#x20;Analyzed monthly sales trends
+\---
 
 
 
-\# Key Insights I Found
+\## What I Tried to Achieve
 
-&#x20;Some products generated high revenue even with low quantity
+\- Understand how data analysis works in real-world business problems
 
-&#x20;Electronics category performed better than stationery
+\- Learn how to clean and process CSV data
 
-&#x20;Sales showed variation across months
+\- Generate insights using Python libraries
 
 
 
-\# Visualizations
+\---
 
-&#x20;Analyzed monthly sales trends using line chart
+
+
+\## Tools I Used
+
+\- Python
+
+\- Pandas
+
+\- NumPy
+
+\- Matplotlib
+
+
+
+\---
+
+
+
+\## What I Did in This Project
+
+\- Loaded and cleaned sales dataset
+
+\- Created new column for total sales
+
+\- Grouped data by product and category
+
+\- Calculated total revenue
+
+\- Analyzed monthly sales trends
+
+
+
+\---
+
+
+
+\## Key Insights I Found
+
+\- Some products generated high revenue even with low quantity
+
+\- Electronics category performed better than stationery
+
+\- Sales showed variation across months
+
+
+
+\---
+
+
+
+\## Visualizations
+
+\- Analyzed monthly sales trends using line chart
 

@@ -22,8 +22,7 @@ In this project, I analyzed sales data to understand:
 
 ## Tools Used
 - Python  
-- Pandas  
-- NumPy  
+- Pandas   
 - Matplotlib  
 
 
